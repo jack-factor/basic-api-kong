@@ -1,0 +1,9 @@
+_format_version: "1.1"
+
+services:
+- name: api-web
+  url: https://example.com
+  routes:
+  - name: web
+    paths:
+    - /web
